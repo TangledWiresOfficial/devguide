@@ -1,4 +1,6 @@
 # Summary
 
-- [Style guides](style/README.md)
+- [Home](README.md)
+- [Brand](brand/README.md)
+- [Code style guides](style/README.md)
     - [Rails](style/rails.md)
